@@ -42,7 +42,7 @@ This project covers the **complete data analysis lifecycle**:
 | **Page 2** | Insights + Recommendations: Trends, Salary vs Experience, Hiring Tips |
 
 📸 Dashboard Previews:
-![Dashboard Page 1](Market_overview.png)
+![Dashboard Page 1](Market_Overview.png)
 ![Dashboard Page 2]( Insights_&_Recommendations.png)
 
 ---
