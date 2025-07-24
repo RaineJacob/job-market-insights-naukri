@@ -43,7 +43,7 @@ This project covers the **complete data analysis lifecycle**:
 
 📸 Dashboard Previews:
 ![Dashboard Page 1](Market_Overview.png)
-![Dashboard Page 2]( Insights_&_Recommendations.png)
+![Dashboard Page 2](Insights_and_Recommendations.png)
 
 ---
 
